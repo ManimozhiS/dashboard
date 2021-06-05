@@ -1,0 +1,94 @@
+.App {
+  text-align: center;
+}
+
+.current{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+}
+.voltage{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+  
+}
+.voltage2{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+}
+.powerfactor{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+}
+.load{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+
+}
+.frequency{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+}
+.Thd{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+}
+.thd{
+  font-family: 'Times New Roman';
+  font-size:larger;
+  margin-left:40px;
+  margin-right:40px;
+  margin-bottom:40px;
+  align-items:center;
+  background-color:"";
+  top: 0;
+  z-index: 100;
+}
