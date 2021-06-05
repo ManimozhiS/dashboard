@@ -1,7 +1,7 @@
 # dashboard
 
-download the repo 
-open react in vscode
+download the repo and
+open this prj in vscode
 
 open another terminal side by side by clicking the split icon 
 now type json-server --watch data.json in the new terminal
